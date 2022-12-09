@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - Entry
- * Return: Always 0 (Success) 
+ * main - prints exactly "and that piece of art is ueful"
+ * - Dora Korpar, 2015-10-19
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
