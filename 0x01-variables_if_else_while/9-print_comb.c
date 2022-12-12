@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	int n;
+	int num;
 
 	for (num = '0'; num <= '9'; num++)
 	{
@@ -17,7 +17,7 @@ int main(void)
 		if (num >= '0' && num < '9')
 		{
 			putchar(',');
-			putchar(',');
+			putchar(' ');
 		}
 	}
 	putchar('\n');
